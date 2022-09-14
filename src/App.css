@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400&display=swap");
+:root {
+  --white: #fff;
+  --gray: #666;
+  --lighGray: rgb(230, 225, 225);
+  --font-bold: 600;
+  --font-normal: 400;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+/* === Card style === */
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  width: 250px;
+  height: auto;
+  background-color: var(--lighGray);
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-img {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 15px;
+}
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-user-info {
+  overflow: hidden;
+  padding: 5px;
+}
+.card-user-info p {
+  font-size: 14px;
+  padding: 5px 0;
+}
+@media (max-width: 669px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+}
