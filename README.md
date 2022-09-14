@@ -1,4 +1,6 @@
-##Link [Demo Link](davron-react-lesson-4.netlify.app)
+##Link ![Demo Link](davron-react-lesson-4.netlify.app)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ScriptOne+academu+student)](https://git.io/typing-svg)
 
 
 # Getting Started with Create React App
