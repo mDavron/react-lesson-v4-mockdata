@@ -5,8 +5,8 @@
 <h3 align="center">React web-developer student, IT news writer from Uzbekistan</h3>
 ##Link 
 
-[Demo Link]:(davron-react-lesson-4.netlify.app) <br>
-[Github Link]: (https://github.com/mDavron)
+[Demo Link](davron-react-lesson-4.netlify.app) <br>
+[Github Link](https://github.com/mDavron)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ScriptOne+academy+student)](https://git.io/typing-svg)
 
