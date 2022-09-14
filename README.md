@@ -3,12 +3,13 @@
 <h1 align="center">Hi there, I'm <a href="davron-react-lesson-4.netlify.app" target="_blank">Davron</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">React web-developer student, IT news writer from Uzbekistan</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ScriptOne+academy+student)](https://git.io/typing-svg)
+
 
 ## Links:
 [Demo Link](davron-react-lesson-4.netlify.app) <br>
 [Github Link](https://github.com/mDavron)
 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ScriptOne+academy+student)](https://git.io/typing-svg)
 
 
 # Getting Started with Create React App
